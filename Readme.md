@@ -5,11 +5,11 @@
 
 1. Connect to GPT-3 API using Python 
 2. Send prompt and get response 
-3. Use response to do something`
+3. Use response to do something
 
 ---
 
 [Google Website](def)
-#########################
+###########################
 
 [def]: http://google.com
